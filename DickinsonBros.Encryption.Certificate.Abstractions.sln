@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 Source", "1 Source", "{37
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 Scripts", "3 Scripts", "{DCA93D67-94C5-4F7F-8CBA-5CCF6D49D05A}"
 	ProjectSection(SolutionItems) = preProject
-		Scripts\CreateNugetPackageCI.ps1 = Scripts\CreateNugetPackageCI.ps1
+		Scripts\Prerelease.DickinsonBros.Encryption.Certificate.Abstractions.ps1 = Scripts\Prerelease.DickinsonBros.Encryption.Certificate.Abstractions.ps1
 		Scripts\Publish.yml = Scripts\Publish.yml
 		Scripts\Test.yml = Scripts\Test.yml
 	EndProjectSection
